@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ttys0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://108minutes.net
+  * I am ttys0 (https://keybase.io/ttys0) on keybase.
+  * I have a public key ASCDsfqY7YIxZ7GaCZVn1HFuAfoZ8_Q1lBI5Jctk-NU7Zwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015138a271805604540f30d193bc84e43707e90e93f1ae383f311e925b442c757b0a",
+      "host": "keybase.io",
+      "kid": "012083b1fa98ed823167b19a099567d4716e01fa19f3f43594123925cb64f8d53b670a",
+      "uid": "ecfff5d1fb741d15573d0e242a809f00",
+      "username": "ttys0"
+    },
+    "merkle_root": {
+      "ctime": 1563204341,
+      "hash": "0b11c6ff9baf222587108e022e2e7cbdbadbae74fac191e129d679c79bcda48413716c00e3863169e5dd31309a3a3e61a54729a7a6ae234ea304a31be25a4453",
+      "hash_meta": "1ba8239bf722df277a9d0a80244660e0bf207bccb428005d2c6c9f077529cd50",
+      "seqno": 5766421
+    },
+    "service": {
+      "entropy": "B/D2u5dpHyJIJcG10YzlRM0e",
+      "hostname": "108minutes.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563204304,
+  "expire_in": 504576000,
+  "prev": "32eb3410850bae40482847ccc67424ec571cfef0b1248ce1cfc11029d419ebb6",
+  "seqno": 91,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgg7H6mO2CMWexmgmVZ9RxbgH6GfP0NZQSOSXLZPjVO2cKp3BheWxvYWTESpcCW8QgMus0EIULrkBIKEfMxnQk7Fcc/vCxJIzhz8EQKdQZ67bEIA80NNyWwxPRiTmnzEIOieh/9ESs0rTtAs1TxjJrMuwOAgHCo3NpZ8RAfdQXGGv+ElFXxG4abAUf6afQmF391sUWnFpjAaZjHQD2C7ZpE98G2RWqzBhLk1CZuU+9aWmSdBUmSILdrj1NAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILv2RhVSNwEM+uNJUCYm96321Atz43I4kb6kq+fh+XEOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ttys0
+
+==================================================================
