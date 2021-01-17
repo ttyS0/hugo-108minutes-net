@@ -13,7 +13,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "108 Minutes"
-    copyright = "©2020 Sean Johnson"
+    copyright = "©2021 Sean Johnson"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
